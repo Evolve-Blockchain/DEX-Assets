@@ -13,7 +13,7 @@
     {
       "name": "WEVO Token",
       "symbol": "WEVO",
-      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "address": "0xc016ef3e7E3A977FDeBFb2ef2Bf888989285A1ba",
       "chainId": 3424,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Evolve-Blockchain/DEX-Assets/main/assets/curr.png"
@@ -23,7 +23,7 @@
     {
       "name": "ETH Token",
       "symbol": "ETH",
-      "address": "0xE5184D6B16aE42D16fBA7210277Ee6a7a23352Fd",
+      "address": "0x820745A6C9AC9BFF5467dcCC55F752ae089721F8",
       "chainId": 3424,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
@@ -33,7 +33,7 @@
     {
       "name": "MATIC Token",
       "symbol": "MATIC",
-      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
+      "address": "0xC1Baae859CC85Ff99343DF64A6585Df953197F30",
       "chainId": 3424,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
@@ -42,7 +42,7 @@
     {
       "name": "BNB Token",
       "symbol": "BNB",
-      "address": "0x8694A1A789133c94aA3c95B80c852583628A93b6",
+      "address": "0xcB711FcE5774E662657F2c8097744E63320F5315",
       "chainId": 3424,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
